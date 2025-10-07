@@ -1,1 +1,4 @@
 programacion para ciencia de datos
+
+
+este es un texto para la practica de programacion orientada para ciencia de datooos
